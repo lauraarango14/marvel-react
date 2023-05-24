@@ -10,6 +10,6 @@ export default function Header() {
             <Menu.Item name="comics" onClick={()=>console.log("haciendo clic en comics")} />
         </Menu>
     </div>
-
+//Hola
  );   
 }
